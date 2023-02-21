@@ -1,5 +1,5 @@
 *{
-    font-family:Verdana, Geneva,Tahoma, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: black;
     color:antiquewhite;
 }
@@ -8,7 +8,7 @@ h1{
     color:aliceblue;
 }
 
-h1,#result{
+h1,form, #result{
     text-align:center;
 }
 
